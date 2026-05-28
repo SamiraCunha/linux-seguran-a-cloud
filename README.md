@@ -10,6 +10,8 @@ VirtualBox com Ubuntu Server
 - pwd — mostra o diretório atual
 - df -h — espaço em disco
 - free -h — memória RAM
+- mkdir — para criar diretorios
+- tree — para listar diretorios
 
 ## Diferença entre VM, VPS e cloud
 VM local: corre no teu computador, sem acesso externo
