@@ -1,0 +1,9 @@
+mkdir
+ls
+touch
+rmdir - para remover um diretório
+whoami - mostra o utilizador atual.
+id - mostra o ID do utilizador e os grupos a que pertence.
+groups - mostra apenas os grupos do utilizador.
+chmod - para alterar permissões de ficheiros e diretórios.
+ls-l - mostra detalhes dos ficheiros e permissões
