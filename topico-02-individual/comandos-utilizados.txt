@@ -7,3 +7,9 @@ id - mostra o ID do utilizador e os grupos a que pertence.
 groups - mostra apenas os grupos do utilizador.
 chmod - para alterar permissões de ficheiros e diretórios.
 ls-l - mostra detalhes dos ficheiros e permissões
+sudo apt update - Atualiza a lista de pacotes do sistema
+sudo apt install openssh-server - Instala o servidor SSH no sistema
+sudo systemctl enable ssh - Ativa o SSH para iniciar sempre com o sistema
+sudo systemctl start ssh - Inicia o serviço SSH imediatamente
+systemctl status ssh - Mostra o estado do serviço SSH.
+hostname -I -Mostra o endereço IP da máquina.
