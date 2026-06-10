@@ -1,0 +1,9 @@
+cd linux-seguranca-cloud
+mkdir -p topico-03/atividade-individual/site
+mkdir -p topico-03/atividade-individual/evidencias
+cd topico-03/atividade-individual
+touch comandos.txt publicacao.md validacao.md README.md
+cd topico-03/atividade-individual/site/
+ touch index.html sobre.html style.css
+sudo systemctl status apache2
+
