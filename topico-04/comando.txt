@@ -1,0 +1,3 @@
+mkdir -p topico-04/atividade-individual/evidencias
+touch comando.txt superficie-ataque.md firewall.md hardening.md validacao.md README.md
+sudo ss -tulwnp - mostrar que portas estão abertas e que processo está a ouvir nelas
